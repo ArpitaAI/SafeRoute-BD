@@ -191,17 +191,4 @@ The project demonstrates consideration of:
 - Testing and quality assurance.
 - System design and workflow documentation.
 
-## 📌 Project Status
 
-**Academic Software Engineering Project – Planning, Requirements Analysis, System Design and Test Documentation.**
-
-The repository presents the project's planning and documentation deliverables. The proposed application is not represented as a completed or deployed product.
-
----
-
-**Project:** SafeRoute BD  
-**Project Group:** Group 4  
-**Institution:** American International University-Bangladesh (AIUB)  
-**Domain:** Software Engineering & Project Management
-
-*Planning technology-driven solutions for safer digital and physical communities.*
